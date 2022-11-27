@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "4.4.0",
+    "qrcode-terminal": "0.12.0"
+  }
+}
